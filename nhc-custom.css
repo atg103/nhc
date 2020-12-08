@@ -1,3 +1,12 @@
 div#page div.utility-bar {
 	background-color: #202351;
 }
+div#page header h1 {
+	color: white;
+}
+div#page header {
+	background-image: url(goosedale-greenery.jpg);
+	background-position-y: -240px;
+	background-position-x: -50px;
+}
+
