@@ -9,4 +9,7 @@ div.wrapper > header {
 	background-position-y: -240px;
 	background-position-x: -50px;
 }
+.icon-contact-phone, span[itemprop="telephone"] {
+	display: none;
+}
 
